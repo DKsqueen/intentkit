@@ -9,9 +9,10 @@ This project is currently in alpha stage and is not recommended for production u
 ## Features
 
 - 🤖 Multiple Agent Support
-- 🔄 Autonomous Agent Management
+- 🔄 oAutonomous Agent Management
 - 🔗 Blockchain Integration (EVM for now, will add more)
 - 🐦 Social Media Integration (Twitter, Telegram for now, will add more)
+- 
 - 🛠️ Extensible Skill System
 - 🔌 Extensible Plugin System (WIP)
 
